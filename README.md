@@ -1,3 +1,3 @@
 ### Hey I'm Riku 💾
-I have good projects and shitposts gone pro, looking at my repositories will let you know which is which and which is both. I've been doing computer stuff as long as I can remember and I enjoy it. My strong suits are backend, realtime, and lower level programs.
-![Riku banner](https://i.kawaii.sh/z6SLBYJ.png)
+I make anything from basic web projects and low level libraries and desktop applications. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I hope it can be of use to others. I explore new technologies, programming languages, and concepts to better my knowledge and experience.
+![Riku banner](https://i.postimg.cc/sgJSKKDZ/Profile.png)
