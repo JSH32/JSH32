@@ -9,6 +9,7 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Rust](https://img.shields.io/badge/-Rust-e53a25?logo=rust&style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ec2025?style=for-the-badge&logoColor=white&logo=Java)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logoColor=white&logo=Lua)
+![Ruby](https://img.shields.io/badge/Ruby-ff3b3b?style=for-the-badge&logoColor=white&logo=ruby)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586a4?style=for-the-badge&logoColor=white&logo=opengl)
 ![Go](https://img.shields.io/badge/-Go-00acd7?style=for-the-badge&logoColor=white&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logoColor=black&logo=javascript)
