@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Riku32/Riku32/master/assets/main.gif)
+![Banner](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
 ## Hey I'm Riku 💾
 Hey I'm Josh. I'm an aspiring computer engineer based in Chicago, Illinois. I make anything from web projects, low level libraries, and desktop applications. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I enjoy making them and hope it can be of use to others.
 
@@ -30,5 +30,5 @@ Help me keep doing what I love. I will keep making software because it is what I
 
 <a href="https://www.buymeacoffee.com/l9fDFah3I" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<a href="mailto:riku@kawaii.sh"><img src="https://raw.githubusercontent.com/Riku32/Riku32/master/assets/bottom.gif" alt="Contact Me"></a>
+<a href="mailto:riku@kawaii.sh"><img src="https://raw.githubusercontent.com/JSH32/JSH32/master/assets/bottom.gif" alt="Contact Me"></a>
 Art by [WANEELLA](https://waneella.tumblr.com/)
