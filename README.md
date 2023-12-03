@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
 ## Hey I'm Josh 💾
-Hey I'm Josh. I'm an aspiring computer engineer based in Chicago, Illinois. Going to IU for CS (Graduating 2027) I make anything from web projects, low level libraries, and desktop applications. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I enjoy making them and hope it can be of use to others.
+Hey I'm Josh. I'm an aspiring computer engineer based in Chicago, Illinois. Going to IU for CS (Graduating 2027) I make anything from web projects, low level libraries, and desktop applications. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I enjoy making them and hope it can be of use to others. I currently work as a Software Developer at Integra and ElectroKare.
 
 ## ⚡ Technologies
 I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
