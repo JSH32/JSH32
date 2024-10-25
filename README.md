@@ -1,6 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
 ## Hey I'm Josh 💾
-Hey I'm Josh. I'm a computer engineer based in Chicago, Illinois. Going to IU for CS (Graduating 2027) I make anything from web projects, low level libraries, and desktop applications. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I enjoy making them and hope it can be of use to others. I currently work as a Software Developer at Integra and ElectroKare.
+Hello, I'm Josh, an ambitious computer engineer based in Chicago, Illinois. I am the founder of [RSys Corp.](https://rsys.tech) and I currently work for Scorpion and Integra. I'm currently attending IU for Computer Science (Graduating 2027). I am deeply passionate about advancing my expertise within this dynamic field. My academic journey is complemented by 6 years of hands-on experience in a wide array of areas, including web services, distributed computing, graphics programming, FPGA development, and PCB engineering/manufacturing. I am dedicated to continuous learning and actively seek opportunities to apply my knowledge through personal projects and professional experiences.
+
 
 ## ⚡ Technologies
 I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
