@@ -34,3 +34,5 @@ Help me keep doing what I love. I will keep making software because it is what I
 
 <a href="mailto:riku@kawaii.sh"><img src="https://raw.githubusercontent.com/JSH32/JSH32/master/assets/bottom.gif" alt="Contact Me"></a>
 Art by [WANEELLA](https://waneella.tumblr.com/)
+
+I do not typically do freelance, if you are contacted by someone on Discord/Reddit/Telegram offering services of any kind, it is not me
